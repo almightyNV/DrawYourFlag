@@ -6,7 +6,7 @@ This project is a simple drawing of your country's flag. You can select the colo
 - CSS3
 - Javascript
 
-## [Check out the project here only desktop] (https://almightynv.github.io/DrawYourFlag/)
+## [Check out the project here only desktop](https://almightynv.github.io/DrawYourFlag/)
 
 I have started learning frontend development and I think you learn more by doing the practical work.
 This project is purely created by only using HTML, CSS, and Javascript.
